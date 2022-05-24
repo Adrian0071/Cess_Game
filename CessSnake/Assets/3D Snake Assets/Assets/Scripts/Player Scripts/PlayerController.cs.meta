@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 50340433b88d0e2438b1824a62e688e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tailPrefab: {fileID: 212026538818964292, guid: 8de7d9a584671ce4096f0acd7c0fd6f6, type: 3}
+  - coinDisplayText: {instanceID: 0}
+  - coinDisplayText1: {instanceID: 0}
+  - fruit_PickUp: {fileID: 7346213192493136408, guid: 37919d507c48a1c44b7be44d1022be7b, type: 3}
+  - bomb_Pickup: {fileID: 4937479597132181546, guid: 4966347d6add10647809fe2c92f83040, type: 3}
+  - rare_drop: {fileID: 7893201430307095325, guid: e188618337817e4408bb929a6a9947a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

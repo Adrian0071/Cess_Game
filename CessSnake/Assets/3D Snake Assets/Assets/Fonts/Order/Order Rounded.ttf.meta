@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a3bce93f49f611f48af90ece7ad5463e
+timeCreated: 1487236080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Order '
+  fontNames:
+  - 'Order '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

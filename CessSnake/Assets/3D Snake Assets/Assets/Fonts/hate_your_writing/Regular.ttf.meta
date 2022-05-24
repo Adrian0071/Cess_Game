@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d56a7a33c81de14697f7710a2eaf17d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hate Your Writing
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 219d6631f6b9ffb4e8ac0ddd83cae8da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

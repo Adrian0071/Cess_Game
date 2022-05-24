@@ -1,0 +1,36 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class AudioManager : MonoBehaviour
+{
+
+    public static AudioManager Instance;
+
+    public AudioClip pickUp_Sound, dead_Sound;
+
+    // Start is called before the first frame update
+    void Awake()
+    {
+        MakeInstance();
+    }
+
+   
+    void MakeInstance()
+    {
+        if(Instance == null)
+        {
+            Instance = this;
+        }
+    }
+    public void Play_PickupSound()
+    {
+        AudioSource.PlayClipAtPoint(pickUp_Sound, transform.position);
+    }
+
+    public void Play_DeadSound()
+    {
+        AudioSource.PlayClipAtPoint(dead_Sound, transform.position);
+    }
+
+}
